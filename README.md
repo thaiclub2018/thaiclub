@@ -16,9 +16,6 @@ Thaiclubcoin is a lite version of Bitcoin using scrypt as a proof-of-work algori
  - Max supply : 21 million
  - Pre-mined : 4.2 million
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Thaiclubcoin client sofware, see http://www.thaiclubcoin.org.
